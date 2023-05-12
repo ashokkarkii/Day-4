@@ -1,0 +1,32 @@
+.firstpara{
+
+    color:black;
+    background-color: red;
+    border-radius: 20px;
+    border-width: 6px;
+    border-color: rgb(17, 195, 32);
+    height: 150px;
+    border-style: solid;
+    width: 900px;
+}
+
+.thirdpara{
+    color:black;
+    background-color: green;
+    /* border-radius: 20px; */
+    border-width: 6px;
+    width: 900px;
+    height: 150px;
+    border-top: rgb(9, 200, 9);
+    border-left: brown;
+    border-style: solid;
+    border-left:2px solid red;
+    border: left 20px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius:40px;
+
+}
+.secondpara{
+    font-style: italic;
+    font-size: 50px;
+}
